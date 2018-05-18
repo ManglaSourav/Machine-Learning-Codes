@@ -1,3 +1,4 @@
-# Machine-Learning-Codes
-Machine Learning Algorithm 
-Machine Learning Problem
+## Machine-Learning-Codes
+**Machine Learning Algorithm**
+
+**Machine Learning Problem**
